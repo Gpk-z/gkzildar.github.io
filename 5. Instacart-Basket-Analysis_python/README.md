@@ -1,18 +1,32 @@
 ## Instacart Basket Analysis - Python Project 
 
-### Objective
-I am an analyst for an existing company, Instacart, an online grocery store that operates through an app. Instacart already has very good sales, but they
-want to uncover more information about their sales patterns. I've performed an initial data and exploratory analysis of some of their data in order
-to derive insights and suggest strategies for better segmentation based on the provided criteria.
-
-### Purpose and Context:
-At CareerFoundry, I had a project that introduced me to the world of Python. This project allowed me to apply my analitical skills for performing exploratory analysis for a real-world big dataset.
 
 ### Goal
 Deliver a final report including tables and visualizations that profile Instacart customers based on their purchase behaviors.
 
-### Instacart Data Sets:
-* [Customers Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
-* [Data Sets](https://www.instacart.com/datasets/grocery-shopping-2017)
-* [Data Dictionary](https://github.com/Gpk-z/gkzildar.github.io/blob/main/data_description.md))
-* “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017.
+## INSTACART
+Python-based project on Consumer Behavior Trends and Marketing Analysis through CareerFoundry Data Analytics Program.
+
+## OBJECTIVE 
+Instacart, an online grocery store that operates through an app. While they already have a very good sales, the management team wants to uncover more information about their sales patterns. They are mostly interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products. 
+
+## DATA
+The online Grocery Shopping Dataset 2017 can be accessed [here](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b).The dataset contains the following information: 
+ * orders
+ * customers
+ * products
+ * departments
+ * [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+
+## LIMITATIONS
+* Data only contains records from 2017.
+* Customer demographics are limited to income, age, family size and marital status
+
+## TOOLS
+For this achievement, the following python libraries were used:
+  * pandas - for data analysis
+  * seaborn - for visualization
+  * excel - for final report
+ 
+ ## DELIVERABLES
+  For full access on [Excel Report](https://github.com/Gpk-z/gkzildar.github.io/tree/main/Projects/A4_FIN~1.XLS)
