@@ -17,5 +17,11 @@ video games (for games that sold more than 100,000 copies) spanning different
 platforms, genres, and publishing studios. This data was drawn from the website
 VGChartz . [link](https://www.vgchartz.com/).
 
-
+### Techniques Applies
+Data Integrity, Quality and Consistency Assessment
+Data Cleaning
+Pivot Tables
+Descriptive Analysis
+Excel Visualization Results
+PowerPointPresentation
 
