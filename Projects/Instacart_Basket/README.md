@@ -16,7 +16,7 @@ The online Grocery Shopping Dataset 2017 can be accessed [here](https://gist.git
  * customers
  * products
  * departments
- * [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+ * [Data Dictionary](https://github.com/Gpk-z/gkzildar.github.io/tree/main/Projects/Instacart_Basket/data_description.md)
 
 ## LIMITATIONS
 * Data only contains records from 2017.
@@ -29,4 +29,4 @@ For this achievement, the following python libraries were used:
   * excel - for final report
  
  ## DELIVERABLES
-  For full access on [Excel Report](https://github.com/Gpk-z/gkzildar.github.io/tree/main/Projects/A4_FIN~1.XLS)
+  For full access on [Excel Report](https://github.com/Gpk-z/gkzildar.github.io/tree/main/Projects/Instacart_Basket/Final_Report.XLS)
