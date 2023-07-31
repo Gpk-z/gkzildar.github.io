@@ -11,7 +11,7 @@ Perform an EDA to gain insights and trends of the current sales in different dep
 * Which category has the highest sales?
 
 ### Data Source
-Kaggle[link: https://www.kaggle.com/]
+Kaggle[link](https://www.kaggle.com/)
 
 ### Techniques Applies
 Data Integrity, Quality and Consistency Assessment, Data Cleaning, Pivot Tables, EDA, Excel Charts
