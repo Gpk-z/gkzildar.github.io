@@ -12,7 +12,7 @@ developments for marketing and sales teams’ 2017 budget planning
 * How have their sales figures varied between geographic regions over time?
 
 ### Data Source
-Throughout this course, you’ll be using a data set that covers historical sales of
+This is a data set that covers historical sales of
 video games (for games that sold more than 100,000 copies) spanning different
 platforms, genres, and publishing studios. This data was drawn from the website
 VGChartz . [link](https://www.vgchartz.com/).
