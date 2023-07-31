@@ -17,9 +17,6 @@ As a Data Analyst at Rockbuster Stealth* LLC, I am supposed to address these bus
 ### Data Source
 The database used for this project can be found in the following [link](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
-### Report and Visualizations 
-You can check the final report in Tableau clicking this [link](https://public.tableau.com/app/profile/carolina.pachon/viz/RockbusterAnalysis/Story1).
-
 ### ERD Diagram 
 To get an idea of how the dataset looks like, this is a diagram that shows the relationships among the different entities.  
 
