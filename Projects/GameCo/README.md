@@ -21,6 +21,6 @@ VGChartz . [link](https://www.vgchartz.com/).
 Data Integrity, Quality and Consistency Assessment, Data Cleaning, Pivot Tables, Descriptive Analysis, Excel Charts, PowerPointPresentation
 
 ### Tools
-*Excel
-*Powerpoint
+* Excel
+* Powerpoint
 
